@@ -5,7 +5,7 @@
 ```javascript
   const sobreMim = {
     linguagens: [Javascript, HTML, CSS, Typescript],
-    ferramentas: [React, Styled-Components, Node],
+    ferramentas: [React, Styled-Components, Node, MySQL],
     idiomas: [Português, Inglês]
   }
 ```
