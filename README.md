@@ -1,9 +1,6 @@
 <h2>Oi, eu sou a Julia! 🌟</h2>
+<div><img align='right' src="https://i.ibb.co/Mk37StM/Work-from-home-ai-1.png" width="180" /></div>
 <p><em>💻 Desenvolvedora Web Full Stack <br /> ✨ Designer Gráfico</p></em>
-<div><img align='right' src="https://i.ibb.co/Mk37StM/Work-from-home-ai-1.png" width="200" /></div>
-
-##
-<div>
 
 ```javascript
   const sobreMim = {
@@ -12,11 +9,10 @@
     idiomas: [Português, Inglês]
   }
 ```
-  
- </div>
+
 <br />
 
-<div align="left">
+<div>
   <img align="left" width="100%" height="180em" src="https://github-readme-stats.vercel.app/api?username=juliacortez&show_icons=true&theme=calm&include_all_commits=true&count_private=true"/>
 </div>
  
