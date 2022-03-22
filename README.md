@@ -3,6 +3,7 @@
 <div><img align='right' src="https://i.ibb.co/Mk37StM/Work-from-home-ai-1.png" width="200" /></div>
 
 ##
+<div>
 
 ```javascript
   const sobreMim = {
@@ -11,6 +12,8 @@
     idiomas: [Português, Inglês]
   }
 ```
+  
+ </div>
 <br />
 
 <div align="left">
