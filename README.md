@@ -1,5 +1,5 @@
 <h2>Oi, eu sou a Julia! 🌟</h2>
-<img align='right' src="https://i.ibb.co/Mk37StM/Work-from-home-ai-1.png" width="150" />
+
 <div><p><em>💻 Desenvolvedora Web Full Stack <br /> ✨ Designer Gráfico</p></em></div>
 
 ```javascript
@@ -11,6 +11,7 @@
 ```
 
   <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=juliacortez&show_icons=true&theme=calm&include_all_commits=true&count_private=true"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliacortez&layout=compact&theme=calm" />
  
   
 <div> 
